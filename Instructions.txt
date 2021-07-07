@@ -1,0 +1,6 @@
+INSTRUCTIONS
+This game is fairly simple, and requires attention and timing. The objective is to get the candy into the bowl at the bottom of the screen. The candy will be oscillating from a rope; time correctly and move your mouse accross the rope to cut, and watch as the candy falls. Be quick, for if you wait too long, the candy will stop swinging!
+
+In the second and third levels, there are more components to the game. There is a bubble(ring), which floats upwards and 'pops' if clicked on, and the candy falls. Also, there are 'magic hats' in the third round, which if the candy falls into, emerges out of the other hat of the same colour. The game may seem easy in the first level, but it can get quite tricky in the third! Enjoy. :)
+
+Press any key to start playing...
